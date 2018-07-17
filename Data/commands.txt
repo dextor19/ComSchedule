@@ -1,0 +1,4 @@
+show run
+show route
+show ip
+show version

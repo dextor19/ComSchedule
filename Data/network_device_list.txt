@@ -1,0 +1,2 @@
+cisco_asa 10.142.29.21 cisco cisco 22 cisco False
+cisco_asa 10.142.29.20 cisco cisco 22 cisco False
